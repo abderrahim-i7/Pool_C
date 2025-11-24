@@ -54,7 +54,7 @@ Projet éducatif sous la supervision du FISTO Club IT FSO.
 
 - **NOM COMPLET**: Zedgui Abderrahim
 - **AGE**: 19
-- **Discord ID**: discord.com/z_lax2/1442206820415438941
+- **Discord ID**: discordapp.com/z_lax2/1442206820415438941
 - **Établissement**:  Faculté des Sciences Oujda
 
 ---
