@@ -1,0 +1,21 @@
+#include<stdio.h>
+#include <math.h>
+int f_ispowerof2(int x){
+    int i;
+    for(i=0;i<=x/2;i++){
+        if(pow(i,2)==x){
+            return i;
+        }
+    }
+ return 0;
+
+}
+int main(){
+    int result=f_ispowerof2(36);
+    if(result==0){
+        printf("no");
+    }else{
+        printf("res :%d",result);
+    }
+    return 0;
+}
